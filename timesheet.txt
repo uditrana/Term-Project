@@ -1,0 +1,19 @@
+TIMESHEET:
+11/17: 2 hour
+11/18: 2 hours
+11/22: 3 hours
+11/22: 2 hours -- (In-flight) did basic wall-bullet collision and killBullet
+11/25: 2 hours -- Started implemented basic multiplayer
+11/27: 1 hour  -- Attempted on ball-player collision and made little progress
+11/29: 5 hours -- Perfected multiplayer basics and made graphics a bit better
+11/30: 2 hours -- Worked out tank-bullet collisions and bullet-bullet collisions
+11/30: 1.5 hours -- Added shitty splash screen and few UI elements
+11/30: .5 hours -- Worked on starting players at different spots server side
+12/1: 2 hours -- Worked on creating starting locations for tanks, finished above feature
+12/2: 4 hours -- Set-up wall classes and wall builder
+12/3: 3 hours -- Added wall building to multiplayer. Added spawn placement and cursors features to level building feature
+12/5: 2 hours -- Converted all user input to based on keyPressed and keyReleased. Added spawn stuff server side
+12/6: 5 hours -- Did a shit ton of UI stuff and realized how screwed I am
+12/7: 7 hours -- Tried to bring everything together and and everything fell apart and I died and undid almost everythign i accomplished in the past week :D. yyay!
+
+Total: 44 hours
